@@ -1,6 +1,6 @@
 # Vertical Slice 02 — Silent Budget
 
-Status: authoritative specification draft for human review; not implemented.
+Status: approved for implementation; not implemented.
 Branch: `feature/silent-budget`.
 
 This specification governs the next implementation phase. It is based on the
@@ -821,5 +821,5 @@ local Silent Budget responses described here, not a general participant-response
 system. Do not rewrite completed Slice 01 criteria to fit Slice 02. A forward
 link could be added later but is not required now. AGENTS.md and README.md must
 remain unchanged during this documentation-only task; section 12 records their
-required implementation-phase updates. Do not implement this file plan until
-human review authorizes the implementation phase.
+required implementation-phase updates. Human review has authorized the
+implementation phase.
